@@ -42,4 +42,4 @@ Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato
 - Email: luana.santana@fatecitapetininga.edu.br
 - Site: [https://linktr.ee/LuanaCS](https://linktr.ee/LuanaCS)
 
-Espero que esses exemplos de código em Java sejam úteis para você em sua jornada de aprendizado e desenvolvimento! 😊
+Espero que esses exemplos de código que sejam úteis para você em sua jornada de aprendizado e desenvolvimento! 😊
