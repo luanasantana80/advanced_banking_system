@@ -34,7 +34,3 @@ O sistema oferece as seguintes funcionalidades:
 - Este é um exemplo simples e não possui validações avançadas ou recursos de segurança. Para um sistema real, considere implementar tratamentos de erro mais abrangentes e proteções de segurança.
 
 - Este sistema foi criado como uma demonstração didática e não deve ser usado em produção sem melhorias substanciais.
-
----
-
-Lembre-se de que você pode personalizar este README de acordo com suas necessidades e adicionar mais detalhes sobre como usar o código e suas funcionalidades.
