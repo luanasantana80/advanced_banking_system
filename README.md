@@ -34,3 +34,12 @@ O sistema oferece as seguintes funcionalidades:
 - Este é um exemplo simples e não possui validações avançadas ou recursos de segurança. Para um sistema real, considere implementar tratamentos de erro mais abrangentes e proteções de segurança.
 
 - Este sistema foi criado como uma demonstração didática e não deve ser usado em produção sem melhorias substanciais.
+
+
+## Contato
+Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
+
+- Email: luana.santana@fatecitapetininga.edu.br
+- Site: [https://linktr.ee/LuanaCS](https://linktr.ee/LuanaCS)
+
+Espero que esses exemplos de código em Java sejam úteis para você em sua jornada de aprendizado e desenvolvimento! 😊
